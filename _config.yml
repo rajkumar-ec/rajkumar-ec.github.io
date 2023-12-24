@@ -1,0 +1,11 @@
+theme: minima
+minima:
+    skin: dark
+
+title: Raj
+author: rajkumar-emptycup
+description: ""
+email: raj@emptycup.in
+
+header_pages:
+    - index.md
