@@ -29,6 +29,6 @@ title: Week 4
    - Conclusion of meet: Understand the code and roughly draw out the upload functionality
 
 5.  #### User upload Functionality (in progress):
-    - Created a fork of emptycup3d and cloned it
-    - Exploring the codebase
-    - To be continued...
+   - Created a fork of emptycup3d and cloned it
+   - Exploring the codebase
+   - To be continued...
