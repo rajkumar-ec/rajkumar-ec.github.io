@@ -4,7 +4,7 @@ title: Week 4
 ---
 
 
-## Monday 20 Jan
+## Monday 22 Jan
 
 ### 09:00 - start
 
@@ -50,3 +50,91 @@ title: Week 4
 ### 22:00 - close
 
 ---
+
+## Tuesday 23 Jan
+
+### 09:00 - start
+
+- fix yesterday issue during refactor.
+
+### 10:00
+
+- the furnishing is uploaded and shown in 3d. but in blue
+- the model and the db are miss matching, problem due to cdn
+
+### 12:00
+
+- the furnishing upload is fixed, its working now.
+- rebasing, forced pushed to origin/furnishings.
+
+### 14:00
+
+- work on docs for how catalogue works.
+- How furnishig upload is working, in detail
+
+### 16:00
+
+- furnishing docs are completed.
+- working on migration docs
+
+### 18:00
+
+- working on migration docs
+- finished with migration docs
+
+### 20:00 - close
+
+---
+
+## Wenesday 24 Jan
+
+### 09:00 - start
+
+- next steps: accept both fbx and zip files.
+- Fix diffuse problem in convert materials
+
+### 10:00
+
+- Code review with Ab.
+
+### 12:00
+
+- refactoring furnishings
+- tags are not working properly
+
+### 14:00
+
+- fixed file handling in backend.
+- call with Ab.
+
+### 16:00
+
+- Minor refactor and fix tags.
+- Another call with Ab.
+
+### 18:00
+
+- Refactor furnishings and materials
+
+### 20:00
+
+- more refactor
+- test changes
+
+### 21:30 - sign out
+
+---
+
+## Thursday 25 Jan
+
+**9:00** start the day
+
+- **9:00am**: testing and fixing bugs in the refactored code
+- **11:00am**: problem in save original blend
+- **12:00pm**: fixed previous problem, furnishing is working
+- **1:00pm**: tested and fixed material upload
+- **2:00pm**: working on shallow copy.
+- **3:00pm**: shallow copy is done.
+- **4:00pm**: Materials filter fixed and pushed.
+
+**5:00pm**: signout for the day as no updates from Ab.
