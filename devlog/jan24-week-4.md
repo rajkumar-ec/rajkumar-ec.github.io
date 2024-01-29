@@ -138,3 +138,18 @@ title: Week 4
 - **4:00pm**: Materials filter fixed and pushed.
 
 **5:00pm**: signout for the day as no updates from Ab.
+
+---
+
+## Monday 29 Jan
+
+**9:00** start the day
+
+- **9:00am** : go through the pr for changes
+- **10:00am** : fix db migrate problem because I had to rebuild/reimport the db
+- **11:00am** : fixed db problem and continuing with pr changes
+- **02:00pm** : working on pr changes. Call with Ab.
+- **04:00pm** : fixed orientation problem.
+- **05:30pm** : fixed and pushed the pr.
+- **06:30pm** : Code review with Ab.
+- **09:00pm** : weekly review
