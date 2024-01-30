@@ -143,7 +143,7 @@ title: Week 4
 
 ## Monday 29 Jan
 
-**9:00** start the day
+**9:00am** start the day
 
 - **9:00am** : go through the pr for changes
 - **10:00am** : fix db migrate problem because I had to rebuild/reimport the db
@@ -153,3 +153,21 @@ title: Week 4
 - **05:30pm** : fixed and pushed the pr.
 - **06:30pm** : Code review with Ab.
 - **09:00pm** : weekly review
+
+**9:30pm** signout for the day.
+
+---
+
+## Tuesday 30 Jan
+
+**9:00am** : start the day
+
+- **10:00am** : fixed_ref problem
+- **12:00am** : fixed and pushed
+- **12:30pm** : code review with Ab.
+- **02:30pm** : back from lunch, fixing changes
+- **04:00pm** : made changes and pushed
+- **05:00pm** : call with Ab, a  long call. Discussing on changeCatalogue
+- **09:00pm** : fixed code and rebased and pushed
+
+**9:00pm** : signout for the day
