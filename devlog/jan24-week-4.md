@@ -171,3 +171,22 @@ title: Week 4
 - **09:00pm** : fixed code and rebased and pushed
 
 **9:00pm** : signout for the day
+
+---
+
+## Wednesday 31 Jan
+
+**9:00am** : start the day
+
+- **9:30am** : discussed on pyassimp problem and containerization of worker and manager. Will be handled by Ab.
+- **10:30am** : Moved to issue(#74). Understanding the problem.
+- **12:30pm** : issue in furnishing upload, require fix for azure cloud. Consult with Ab.
+- **02:00pm** : going through issue(#74) and updated the issue for more clarification
+- **03:00pm** : got response on how to move forward for issue(#74).
+- **04:00pm** : clearing out how the cli will work. Created the basic flow
+- **05:00pm** : problem in furnishing upload pr. Discuss with Ab.
+- **08:00pm** : finished with the script. Need verification.
+
+**8:30pm** : signout for the day
+
+---
