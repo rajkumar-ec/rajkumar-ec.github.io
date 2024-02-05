@@ -40,3 +40,23 @@ title: Week 4
 - **07:30pm** : Implemented migration of missing furnishing refs for issue(#3)
 
 **7:30pm** : signout for the day
+
+## Monday 5 Feb
+
+**9:30am** : start the day
+
+- **9:30am** : Wating for Ab response for next steps.
+- **10:00am** : Call with Ab to optimize clia and cli implimentation and organization.
+- **12:00pm** : Have to modify the material ref cli flow for new changes.
+- **02:30pm** : got carried away due to misunderstanding about texture thumbnails. Wasted a lot of time.
+- **03:30pm** : Clarification from Ab. No need for sperate handling of texture thumbnails. Lot of time wasted.
+- **04:00pm** : Done with the docs and the cli implementation.
+- **04:30pm** : Discusson with Ab about the catalogue branch problem.
+- **05:00pm** : Had to pull the new catalogue branch. did `ecreboot`, throwing SQL error. Informed Ab, waiting for response.
+- **06:30pm** : SQL error is gone, but _loadFurnishing is not working correctly. Waiting for response.
+- **07:00pm** : SQL error occure on starting container, and get fixed after some restarts.
+- **07:30pm** : The async error was happening because of missing refs. Have infomed Ab, waiting for response.
+- **08:00pm** : Pushed the code for PR. No, review today.
+
+
+**8:30pm** : signout for the day
