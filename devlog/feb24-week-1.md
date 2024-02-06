@@ -60,3 +60,21 @@ title: Week 4
 
 
 **8:30pm** : signout for the day
+
+## Tuesday 6 Feb
+
+**9:00am** : start the day
+
+- **9:30am** : Wating for Ab response for next steps. Moving to furnishing assets migration.
+- **10:00am** : Implemented furnishing asstet migration. Furnishing's `frontview` is not being uploaded to the blob, informed Ab.
+- **10:30am** : It was a premission problem.
+- **11:30am** : Finished and pushed furnishing migration and its docs. Moving to material migration.
+- **12:30pm** : Working on material migration from old db.
+- **1:30pm** : Done with mat material migration and working on requested changes.
+- **2:30pm** : Fixed requested changes, working on docs.
+- **3:30pm** : Fixed minor changes and gave updated PR for migrate material. docs are pending.
+- **05:00pm** : Finshed docs and migrate furnihing is almost done, problem in slots of furnishing. Updated Ab, waiting for response.
+- **06:30pm** : Updated defaults to 75 in slots for `migrate_furn` and added docs for `migrate_furn`.
+- **07:30pm** : Updated PR for `migrate_furn`. Updated Ab.
+
+**7:30pm** : signout for the day
