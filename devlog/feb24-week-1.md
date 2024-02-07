@@ -41,6 +41,8 @@ title: Week 4
 
 **7:30pm** : signout for the day
 
+---
+
 ## Monday 5 Feb
 
 **9:30am** : start the day
@@ -61,6 +63,8 @@ title: Week 4
 
 **8:30pm** : signout for the day
 
+---
+
 ## Tuesday 6 Feb
 
 **9:00am** : start the day
@@ -78,3 +82,19 @@ title: Week 4
 - **07:30pm** : Updated PR for `migrate_furn`. Updated Ab.
 
 **7:30pm** : signout for the day
+
+---
+
+## Wednesday 7 Feb
+
+**9:30am** : start the day
+
+- **10:00am** : Fixed requested changes. Waiting for Ab's response.
+- **1:30pm** : Update from Ab. Gave PR for docs.
+- **2:30pm** : Have to update the flow for batch processing.
+- **3:30pm** : Added try expect and batch processing.
+- **4:00pm** : Added optimization in batch processing.
+- **4:30pm** : Updated docs for new changes.
+- **5:00pm** : Updated PR for `ec tools v1tov2`, waiting for Ab's response.
+
+**6:00pm** : Sign out for the day.
