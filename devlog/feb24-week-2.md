@@ -22,3 +22,24 @@ title: Week 4
 **8:30pm** : signout for the day
 
 ---
+
+## Friday 9 Feb
+
+**8:30am** : start the day
+
+- **8:30am** : Discussion with Ab. Script is not working.
+- **9:30am** : Updated the script for requested changes
+- **11:30pm** : Gave PR. New fixes required.
+- **12:00pm** : Gave another PR.
+- **12:30pm** : Tested the code. Its working correctly.
+- **01:00pm** : Call with Ab. Script is working correctly now. THANK GOD!!
+- **01:30pm** : Moving to issue (#226)
+- **03:00pm** : Completed the script moving to docs.
+- **04:00pm** : script not working because no db in workhorse. Need modifications.
+- **05:00pm** : Made requested changes and pushed. Too much outputs, need to limit it.
+- **05:30pm** : Made requested changes and pushed. Working. Next script.
+- **06:30pm** : Almost done with the script. The branches are not merged correctly, discussed with Ab.
+
+**7:00pm** : signout for the day
+
+---
