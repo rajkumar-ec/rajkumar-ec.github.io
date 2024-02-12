@@ -43,3 +43,23 @@ title: Week 4
 **7:00pm** : signout for the day
 
 ---
+
+## Monday 12 Feb
+
+**9:30am** : start the day
+
+- **9:30am** : Fix `validate_slots_defaults` to remove code repetation.
+- **11:00pm** : Cleaned up and created new brach due to several conflicts.
+- **11:30pm** : Gave PR for `validate_slots_defaults`
+- **12:30pm** : Gave another PR for `validate_furn_assets`.
+- **01:00pm** : Moving to next issue (#227).
+- **02:00pm** : Gave PR for `validate_mat_assets`.
+- **02:30pm** : Waiting for Ab's response.
+- **04:00pm** : Call with Ab. Requested changes in new script and next steps.
+- **06:00pm** : Gave PR for the 3 issues.
+- **07:00pm** : Working on next issue.
+- **08:00pm** : Have to reset the DB and import new light furns.
+
+**8:30pm** : signout for the day
+
+---
