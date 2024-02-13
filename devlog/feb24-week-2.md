@@ -63,3 +63,22 @@ title: Week 4
 **8:30pm** : signout for the day
 
 ---
+
+## Tuesday 13 Feb
+
+**03:00pm** : start the day. Late, because no electricity.
+
+- **03:30pm** : Update requested changes in the script. And gave the pr.
+- **04:00pm** : Imported the requested furnishings. And exported the sql.
+- **05:00pm** : Had to cleanup the db and import more furns. Shared the sql file.
+- **05:30pm** : Moving to issue #256.
+- **06:30pm** : Update Ab about the findings.
+- **07:30pm** : Apperently, `slots.json` have certain materials which are not correct.
+- **08:00pm** : Move to other issue due to blocked.
+- **08:30pm** : Outlines the path for issue #247. requesting verification. More updates on slots.
+- **09:30pm** : Extracting colors and implementing the script for light materials.
+- **10:00pm** : Missing details in the implementaion. Need updates from Ab.
+
+**10:30pm** : signout for the day
+
+---
