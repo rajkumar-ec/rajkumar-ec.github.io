@@ -82,3 +82,25 @@ title: Week 4
 **10:30pm** : signout for the day
 
 ---
+
+## Wednesday 14 Feb
+
+**09:00am** : start the day.
+
+- **9:30am** : Added light materials to the db and made required changes.
+- **10:30am** : debugging for issue #256
+- **11:30am** : Gave PR for the light materials issue.
+- **12:30pm** : Workig on slots problem, not able to locate the issue.
+- **01:30pm** : Moving to next issue (#110).
+- **02:30pm** : The egg-info folder is created in same dir as source file. Next issue #263
+- **04:00pm** : Working on the tree creation and formatting for `analyze`
+- **05:30pm** : The logic is tricky as well as faulty. Need fixes and cleaup.
+- **07:00pm** : Implemented the `furnishings analyze`
+- **07:30pm** : Made requested changes in the updated PR for light mats.
+- **08:30pm** : Implemented `materials analyze` and gave the PR.
+- **09:30pm** : Working on issue #262.
+- **10:00pm** : Mateial search is quite slow. Does Fuse search work on `tags` array.
+
+**10:30pm** : signout for the day
+
+---
