@@ -104,3 +104,21 @@ title: Week 4
 **10:30pm** : signout for the day
 
 ---
+
+## Thursday 15 Feb
+
+**09:30am** : start the day.
+
+- **9:30am** : Maded requested changes and updated the PRs.
+- **11:30am** : Gave PR for the light materials issue.
+- **01:00pm** : Modified and updated cli/catalogues.
+- **02:30pm** : Implementing the dominant colors script. In progress.
+- **04:00pm** : Gave PR for add dominant colors. Moving to egg-info.
+- **05:30pm** : Gave PR for egg-info issue. Moving  to issue #256.
+- **07:00pm** : Apperently wrong refs were used for the house model in `slots.json` and `THEME_TEMPLETE`
+- **09:30pm** : May have locate the bug. The refs and ids have to be changed. Updated Ab.
+
+
+**10:00pm** : signout for the day.
+
+---
