@@ -122,3 +122,18 @@ title: Week 4
 **10:00pm** : signout for the day.
 
 ---
+
+## Friday 16 Feb
+
+**09:30am** : start the day.
+
+- **9:30am** : Testing refs for `THEME_TEMPLETE`, if they are working correctly.
+- **11:30am** : Adding better refs and ids.
+- **01:00pm** : Gave PR for for used material.
+- **02:30pm** : Disucssion for, `analyze` PR, with Ab.
+- **04:00pm** : Fixing requested changes for the PRs.
+- **05:30pm** : Gave updated the PRs. Working on rerender previews.
+
+**6:00pm** : signout for the day.
+
+---
