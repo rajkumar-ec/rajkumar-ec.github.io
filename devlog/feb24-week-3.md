@@ -52,3 +52,20 @@ title: Week 3
 **9:30pm** : signout for the day.
 
 ---
+
+## Tuesday 20 Feb
+
+**09:30am** : start the day.
+
+- **9:30am** : Implementing paint_furn.
+- **11:30am** : Fleshing out details for `ec batch`
+- **01:00pm** : Half way there. I think?
+- **02:30pm** : Call with Ab to clear out the `ec batch`.
+- **04:00pm** : Added details of the issue to the tracker.
+- **05:30pm** : Implementing paint_furn.
+- **07:00pm** : Group call.
+- **08:30pm** : Working on generate_assets.
+
+**10:30pm** : signout for the day.
+
+---
