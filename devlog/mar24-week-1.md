@@ -21,7 +21,7 @@ title: Week 1
 
 ## Tuesday 5 March
 
-**09:00pm** : start the day.
+**09:00am** : start the day.
 
 - **10:00am** : Testing and fixing painting script.
 - **12:00pm** : `current_job.json` is not handled properly and there are missing mats and slots_names.
@@ -29,5 +29,8 @@ title: Week 1
 - **04:00pm** : Script to get missing mats. Cleaned up `palettes.json`.
 - **06:00pm** : Worked on missing `names` in db and updated the `choices.json`.
 - **07:30pm** : Testing batch painting.
+- **09:30pm** : png generation is working correctly with minor fixes. Rebased the branch to latest catalogues.
+
+**10:00pm** : signout for the day.
 
 ---
