@@ -18,3 +18,16 @@ title: Week 1
 **09:00pm** : signout for the day.
 
 ---
+
+## Tuesday 5 March
+
+**09:00pm** : start the day.
+
+- **10:00am** : Testing and fixing painting script.
+- **12:00pm** : `current_job.json` is not handled properly and there are missing mats and slots_names.
+- **02:00pm** : Fixed jobs.py issue. Working on script to obtain missing mats/palettes.
+- **04:00pm** : Script to get missing mats. Cleaned up `palettes.json`.
+- **06:00pm** : Worked on missing `names` in db and updated the `choices.json`.
+- **07:30pm** : Testing batch painting.
+
+---
