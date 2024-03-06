@@ -34,3 +34,17 @@ title: Week 1
 **10:00pm** : signout for the day.
 
 ---
+
+## Wednesday 6 March
+
+**09:30am** : start the day.
+
+- **10:00am** : Fixing edge cases of for different mesh names and types.
+- **11:00pm** : Can successfully generate previews for any furns.
+- **01:00pm** : Randomly rendering furnishings for different pids. Its taking quite some time.
+- **03:00pm** : Rebased all branches to latest catalogue and made necessary changes.
+- **06:00pm** : Added scripts to count and filter dynamic furns, will reduces the batch panting time.
+- **07:30pm** : Batch processed 100 furns. Processing all at a time is causing error. System limitations.
+
+
+---
