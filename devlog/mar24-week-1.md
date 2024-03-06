@@ -45,6 +45,8 @@ title: Week 1
 - **03:00pm** : Rebased all branches to latest catalogue and made necessary changes.
 - **06:00pm** : Added scripts to count and filter dynamic furns, will reduces the batch panting time.
 - **07:30pm** : Batch processed 100 furns. Processing all at a time is causing error. System limitations.
+- **09:00pm** : Update script to run reiterations for selected bad scripts. Working on db independence.
 
+**09:30pm** : signout for the day.
 
 ---
