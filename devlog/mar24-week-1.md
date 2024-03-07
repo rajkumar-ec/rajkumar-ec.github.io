@@ -50,3 +50,19 @@ title: Week 1
 **09:30pm** : signout for the day.
 
 ---
+
+## Thursday 7 March
+
+**09:30am** : start the day.
+
+- **10:00am** : Fixed db independence of the scripts.
+- **12:00pm** : Tested the script and moving to metadata issue.
+- **02:00pm** : Call with Ab, running script on workhorse.
+- **04:00pm** : Refactored paths and furn files.
+- **06:00pm** : Call with Ab. Testing script.
+- **07:30pm** : Moving to catalogues metadata issue.
+- **09:00pm** : Organizing and going through all types, catagories and subcats to find patterns.
+
+**09:30pm** : signout for the day.
+
+---
