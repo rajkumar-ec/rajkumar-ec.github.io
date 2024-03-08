@@ -66,3 +66,19 @@ title: Week 1
 **09:30pm** : signout for the day.
 
 ---
+
+## Friday 8 March
+
+**09:30am** : start the day.
+
+- **10:00am** : Working on cleanup metadata.
+- **12:00pm** : Implemeted funcs to singularize and find edge cases.
+- **02:00pm** : Integrated edgecase hadeling and gave the pr.
+- **04:00pm** : update the script to output json and then sql. Gave the files.
+- **06:00pm** : Exploring new issue: ceiling is not visible in 2D. Maybe, topview is missing.
+- **07:30pm** : Obtained the json file. Moving to the script to generate the topview.
+- **09:30pm** : Added script, bug: eccli is not working for master. Fixed. Testing script.
+
+**10:00pm** : signout for the day.
+
+---
