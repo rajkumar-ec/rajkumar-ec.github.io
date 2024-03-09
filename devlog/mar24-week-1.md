@@ -82,3 +82,18 @@ title: Week 1
 **10:00pm** : signout for the day.
 
 ---
+
+## Saturday 9 March
+
+**09:30am** : start the day.
+
+- **10:00am** : Located the files need fixed in the code with different approch.
+- **12:00pm** : Some slots are missing, need fixes. Updated the slots and provided the json files.
+- **02:00pm** : Exploring next issue, bathroom fittings.
+- **04:00pm** : Resolved the issue and gave pr. Next is brick model.
+- **06:00pm** : Incrorporated requested changes in the pr and updated it.
+- **08:30pm** : Exploring the brickmodel issue.
+
+**09:00pm** : signout for the day.
+
+---
