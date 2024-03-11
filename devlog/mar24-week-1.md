@@ -97,3 +97,13 @@ title: Week 1
 **09:00pm** : signout for the day.
 
 ---
+
+## Sunday 10 March
+
+**09:30am** : start the day.
+
+- **09:00am** : Worked on brick model upload
+
+**06:30pm** : signout for the day.
+
+---
