@@ -57,7 +57,7 @@ title: Week 2
 - **04:00pm** : working on script to get layouts, themes, leading to slots.
 - **06:00pm** : Clearing edge cases. impelementing script to get static furns file.
 - **07:30pm** : Implemented the script. Testing and removing edge cases.
-- **09:30pm** : Creating files. A lot of files.
+- **09:30pm** : Creating files. A lot of files, may run out of space.
 
 **09:30pm** : signout for the day.
 
