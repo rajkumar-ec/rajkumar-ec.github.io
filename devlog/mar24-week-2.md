@@ -35,3 +35,30 @@ title: Week 2
 **09:00pm** : signout for the day.
 
 ---
+
+## Wednesday 13 March
+
+**09:30am** : start the day.
+
+- Working on static furns.
+- Scripts for reiterations
+
+**09:00pm** : signout for the day.
+
+---
+
+## Thu 14 March
+
+**09:00am** : start the day.
+
+- **09:30am** : Call with Ab regarding next steps.
+- **12:00pm** : Switching to sqlite.
+- **02:00pm** : Can use sqlite to load files
+- **04:00pm** : working on script to get layouts, themes, leading to slots.
+- **06:00pm** : Clearing edge cases. impelementing script to get static furns file.
+- **07:30pm** : Implemented the script. Testing and removing edge cases.
+- **09:30pm** : Creating files. A lot of files.
+
+**09:30pm** : signout for the day.
+
+---
