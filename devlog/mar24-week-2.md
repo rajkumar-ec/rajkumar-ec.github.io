@@ -47,7 +47,7 @@ title: Week 2
 
 ---
 
-## Thu 14 March
+## Thursday 14 March
 
 **09:00am** : start the day.
 
@@ -60,5 +60,19 @@ title: Week 2
 - **09:30pm** : Creating files. A lot of files, may run out of space.
 
 **09:30pm** : signout for the day.
+
+---
+
+## Friday 16 March
+
+**09:00am** : start the day.
+
+- Get material for furns, from v1, that are missing in v2 and add it to v2.
+- Script to upload the pngs to upload to blob.
+- Updated the db with new slots
+- Generate slots for static furns.
+- Quite some time was taken in handling a lot of edge cases and test runs
+
+**11:00pm** : signout for the day. Long day
 
 ---

@@ -5,6 +5,7 @@ layout: home
 # Devlogs
 
 ### March, 2024
+- [Week 3](/devlog/mar24-week-3.md)
 - [Week 2](/devlog/mar24-week-2.md)
 - [Week 1](/devlog/mar24-week-1.md)
 
