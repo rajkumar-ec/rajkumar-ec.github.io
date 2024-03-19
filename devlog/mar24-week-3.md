@@ -19,3 +19,19 @@ title: Week 3
 **09:00pm** : signout for the day.
 
 ---
+
+## Tuesday 19 March
+
+**09:30am** : start the day.
+
+- **09:30am** : Working on setting up the script.
+- **12:00pm** : The job not reaching the vm.
+- **02:00pm** : Was blocked because the vm got off, move to different issue.
+- **04:30pm** : Call with Ab, the workers are receiving the file.
+- **06:30pm** : Writing script for monitor and report and setup blender and assimp.
+- **08:30pm** : Implemented one of the scripts and setup blender and assimp.
+- **09:30pm** : The files are not reaching the vm. Will have to use the container.
+
+**09:30pm** : signout for the day.
+
+---
